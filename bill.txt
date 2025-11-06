@@ -1,0 +1,20 @@
+		 Welcome To MiniMall
+ Bill Number:4729
+ Customer name:Shivani kumari
+ Phone number:6779898698
+ Customer Email:shivani788@gmail.com
+==================================================
+ Products			Qty	Price
+================================================== 
+ kitkat			         4      200
+ cookies			 4	320
+ Nivea			         1	400
+ Loreal			         1	450
+ Apple		                 1       30
+ orange		                 1       20
+
+================================================
+ Sub Amount:			Rs.1450.00
+ Tax Amount:			Rs.0.30
+ Total Amount:			Rs.1450.30
+================================================

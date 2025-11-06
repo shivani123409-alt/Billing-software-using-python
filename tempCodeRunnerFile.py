@@ -1,0 +1,1 @@
+"C:\Users\shiva\OneDrive\Desktop\Mini Project\image\raw-fruit-vegetable-raw-fruit-vegetable-isolated-104266586.jpg"
